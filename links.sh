@@ -1,7 +1,7 @@
 mkdir /home/asmyasnikova83/SCR/links
 
 prefix="/net/server/data/Archive/prob_learn/experiment/"
-DIRS=$(ls -d ${prefix}P0*/*/)
+DIRS=$(ls -d ${prefix}P7*/*/)
 
 for DIR in $DIRS; do
     SUBJ=${DIR#"$prefix"}
