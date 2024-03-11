@@ -33,8 +33,11 @@ SCR_tables_with_comments.ipynb - Larisa's legacy for SGR
 links.sh - makes links to data
 
 ###################################
-fix_cross_main.py - calls functions for preparing events and conducting tfr (beta) 
-main_beta.py
+
+
+fix_cross_main.py
+ 
+main_beta.py - calls functions for preparing events and conducting tfr (beta)
 
 SGR = SCR skin conductance response
 
